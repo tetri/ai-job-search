@@ -1,54 +1,52 @@
----
-framework_version: 1.0.0
----
-
 # Behavioral Profile
 
 <!-- SETUP: This file is populated by running /setup -->
 <!-- You can use results from PI, DISC, Myers-Briggs, StrengthsFinder, or a self-assessment -->
 
 ## Overview
-[YOUR_NAME]'s behavioral assessment identifies them as a **[PROFILE_TYPE]** pattern. [1-2 SENTENCE_SUMMARY].
+Tetri Mesquita Neto's behavioral profile identifies them as a **Technical Leader & Strategic Architect** pattern. They combine deep technical excellence and architectural governance with a strong drive for team mentorship, organizational scaling, and software quality.
 
 ## Core Behavioral Drives
 
 | Drive | Level | Meaning |
 |-------|-------|---------|
-| [DRIVE_1] | [LEVEL] | [DESCRIPTION] |
-| [DRIVE_2] | [LEVEL] | [DESCRIPTION] |
-| [DRIVE_3] | [LEVEL] | [DESCRIPTION] |
-| [DRIVE_4] | [LEVEL] | [DESCRIPTION] |
+| Technical Autonomy | High | Requires space to design robust systems, make high-impact technical decisions, and define core library standards. |
+| Collaboration & Mentorship | High | Energized by mentoring developers, guiding tech leads, and lecturing/teaching computing foundations. |
+| Precision & Quality | High | Passionate about Clean Code, SOLID principles, rigorous Code Reviews, and structural system stability. |
+| Adaptability & Vision | High | Able to pivot between strategic architecture decisions, cloud migrations, and hands-on coding. |
 
 ## Strongest Behaviors
-- **[BEHAVIOR_1]:** [DESCRIPTION]
-- **[BEHAVIOR_2]:** [DESCRIPTION]
-- **[BEHAVIOR_3]:** [DESCRIPTION]
+- **Engineering Quality Advocacy:** Championing code review rigor, design systems, and software engineering best practices.
+- **Developer Mentorship:** Empowering squads and scaling teams by growing and structuring domain Tech Leads.
+- **Analytical Problem Solving:** Proactively diagnosing security threats (e.g. SPAM mitigation), refactoring legacy debt, and planning data integrations.
 
 ## How You Work Best
-- [ENVIRONMENT_PREFERENCE_1]
-- [ENVIRONMENT_PREFERENCE_2]
-- [ENVIRONMENT_PREFERENCE_3]
+- In environments where technical authority is respected and architectural governance is valued.
+- Leading or partnering with agile squads to deliver scalable web, mobile, or enterprise ERP systems.
+- Projects that allow a combination of strategic direction, mentor-driven team scaling, and core component design.
 
 ## Growth Areas (frame positively in applications)
-- **[AREA_1]:** [HOW_TO_FRAME_IT_POSITIVELY]
-- **[AREA_2]:** [HOW_TO_FRAME_IT_POSITIVELY]
+- **Architectural Perfectionism:** Balancing the drive for pristine architecture and zero tech debt with business timelines and rapid feature shipping.
+- **Macro-level Delegation:** Trusting domain-focused Tech Leads with local decisions while maintaining high-level alignment and architectural guidelines.
 
 ## Mapping to Job Posting Language
 
 When a job posting mentions these keywords, it's a **strong behavioral fit**:
-- [KEYWORD_OR_PHRASE_THAT_MATCHES_YOUR_STYLE]
-- [ANOTHER_KEYWORD]
+- Technical Leadership / Mentoring / Tech Lead
+- Software Architect / Architectural Governance / Strategy
+- Code Quality / Review Rigor / Clean Code / SOLID / Tech Debt
+- High-Performance Teams / Team Scaling
 
 When a job posting mentions these, flag as **potential friction** (not deal-breaker):
-- [KEYWORD_OR_PHRASE_THAT_MIGHT_CLASH]
-- [ANOTHER_KEYWORD]
+- Micro-management / strictly top-down task assignment
+- Absence of code reviews / lack of testing or architectural standards
+- High-maintenance legacy support with no room for modern refactoring or cloud transitions
 
 ## Management Style Preferences
-- [WHAT_MANAGEMENT_STYLE_WORKS_FOR_YOU]
-- [WHAT_DOESN'T_WORK]
+- Prefers an autonomous, trust-based environment where key technical decisions are backed by reasoning and design patterns.
+- Enjoys open communication, technical debate, and collaborative architectural reviews.
 
 ## Using This in Applications
-- **Cover letters:** [HOW_TO_WEAVE_IN_BEHAVIORAL_STRENGTHS]
-- **CV:** [WHAT_TO_EMPHASIZE]
-- **Interviews:** [WHAT_STAR_EXAMPLES_TO_USE]
-- **Don't overstate:** [WHAT_NOT_TO_CLAIM]
+- **Cover letters:** Highlight experience scaling a team to ~20 developers and mentoring Tech Leads alongside technical achievements.
+- **CV:** Emphasize leadership responsibilities (squad leadership, code review culture, architect-level choices) next to technical stack results (.NET MAUI, EF Core, Cloud-first transitions).
+- **Interviews:** Speak passionately about teaching/mentoring, coding excellence, and the balance between refactoring legacy code and launching new systems.

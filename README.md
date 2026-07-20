@@ -188,7 +188,11 @@ ai-job-search/
 │   ├── jobindex-search/               # Jobindex.dk (Denmark)
 │   ├── jobnet-search/                 # Jobnet.dk (Denmark, government portal)
 │   ├── linkedin-search/               # LinkedIn public job listings (country-agnostic)
-│   └── freehire-search/               # freehire.dev tech job aggregator (multi-market, REST API)
+│   ├── freehire-search/               # freehire.dev tech job aggregator (multi-market, REST API)
+│   ├── gupy-search/                   # Gupy job search skill (Brazil)
+│   ├── programathor-search/           # Programathor developer job search skill (Brazil)
+│   ├── apinfo-search/                 # APInfo IT job search skill (Brazil)
+│   └── inhire-search/                 # Inhire job search skill (Brazil)
 ├── cv/
 │   └── main_example.tex               # moderncv LaTeX template
 ├── cover_letters/

@@ -1,7 +1,3 @@
----
-framework_version: 1.0.1
----
-
 # Cover Letter Templates and Tailoring Guide
 
 ## Template: Custom cover.cls (XeLaTeX)
@@ -76,7 +72,7 @@ The font wrapper is mandatory — if you just move `\begin{itemize}` outside `\l
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     TITLE NAME
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\namesection{}{\Huge{[YOUR_NAME]}}{  \href{mailto:[YOUR_EMAIL]}{[YOUR_EMAIL]} | [YOUR_PHONE] |  \urlstyle{same}\href{[YOUR_LINKEDIN_URL]}{LinkedIn}
+\namesection{}{\Huge{Tetri Mesquita Neto}}{  \href{mailto:contato@tetri.net}{contato@tetri.net} | +55 (45) 99109-1472 |  \urlstyle{same}\href{https://linkedin.com/in/tetri}{LinkedIn}
 }
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -88,27 +84,24 @@ The font wrapper is mandatory — if you just move `\begin{itemize}` outside `\l
 
 \lettercontent{[Opening paragraph - role, connection to background, 2-3 sentences]}
 
-\lettercontent{[Body paragraph - most relevant experience, introducing the bullet list]}
+\lettercontent{[Body paragraph - most relevant experience, then bullet list]
 
-{\raggedright\fontspec[Path = OpenFonts/fonts/raleway/]{Raleway-Medium}\fontsize{11pt}{13pt}\selectfont
 \begin{itemize}
     \item [Concrete achievement/skill 1]
     \item [Concrete achievement/skill 2]
     \item [Concrete achievement/skill 3]
-\end{itemize}\par}
+\end{itemize}
 
-\lettercontent{[Connection to company - why this role, why this company specifically]}
+[Connection to company - why this role, why this company specifically]}
 
 \lettercontent{[Personal fit paragraph - behavioral strengths, team contribution, 2-3 sentences]}
 
 \lettercontent{I look forward to hearing from you.}
 
 \begin{flushright}
-% No trailing \\ inside \closing{} - cover.cls appends its own \\, and a
-% doubled break triggers "! LaTeX Error: There's no line here to end."
-\closing{Kind regards,}
+\closing{Kind regards,\\}
 
-\signature{[YOUR_NAME]}
+\signature{Tetri Mesquita Neto}
 \end{flushright}
 \end{document}
 ```

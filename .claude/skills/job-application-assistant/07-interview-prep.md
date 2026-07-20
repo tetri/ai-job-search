@@ -1,7 +1,3 @@
----
-framework_version: 1.0.0
----
-
 # Interview Preparation Guide
 
 <!-- SETUP: STAR examples are personalized by running /setup based on your actual experience -->
@@ -14,44 +10,40 @@ Keep answers to 1-2 minutes. Be specific. End with what you learned or would do 
 
 ## Ready-Made STAR Examples
 
-<!-- These are populated by /setup from your actual experience. Below are templates showing the format. -->
+### 1. Flagship Mobile Migration (.NET MAUI & Technical Leadership)
+**S:** The company's flagship enterprise AgTech mobile platform was built on Xamarin, which faced end-of-life support and lacked efficient code sharing with the web application stack.
+**T:** As the Software Architect, I was responsible for leading the architectural design and end-to-end rewrite of the mobile platform to .NET MAUI.
+**A:** I designed a clean, shared architectural framework, mentored the developer team on the new .NET MAUI patterns, established cross-team coding standards, and structured the migration process.
+**R:** Successfully launched the core modules on the new stack, enabling over 60% code sharing with the web application and accelerating subsequent feature delivery cycles.
+**Use for:** "Tell me about a major technical migration you led", "How do you handle architectural upgrades?", "Describe your leadership style."
 
-### 1. [PROJECT_NAME] ([SKILL_DEMONSTRATED])
-**S:** [CONTEXT - what was happening, what was the problem]
-**T:** [YOUR RESPONSIBILITY - what you specifically needed to do]
-**A:** [WHAT YOU DID - specific actions, tools, methods]
-**R:** [OUTCOME - measurable results, adoption, impact]
-**Use for:** "[QUESTION_TYPE_1]", "[QUESTION_TYPE_2]"
+### 2. Engineering Team Structuring (Mentorship & Team Scaling)
+**S:** During a period of rapid company growth, the engineering team expanded to approximately 20 developers, causing decision-making bottlenecks and alignment challenges without dedicated leadership.
+**T:** I needed to mature the engineering operating model to support team expansion while preserving architectural quality and consistency.
+**A:** I mentored senior developers, helped transition them into dedicated domain Tech Leads, established cross-team architectural governance, and introduced a rigorous code review culture.
+**R:** Scaled the team successfully while maintaining high delivery speed and code quality, resulting in autonomous squads with strong technical leadership.
+**Use for:** "How do you scale a software team?", "Tell me about a time you mentored another developer", "How do you ensure code quality?"
 
-### 2. [PROJECT_NAME] ([SKILL_DEMONSTRATED])
-**S:** [CONTEXT]
-**T:** [YOUR RESPONSIBILITY]
-**A:** [WHAT YOU DID]
-**R:** [OUTCOME]
-**Use for:** "[QUESTION_TYPE_1]", "[QUESTION_TYPE_2]"
-
-### 3. [PROJECT_NAME] ([SKILL_DEMONSTRATED])
-**S:** [CONTEXT]
-**T:** [YOUR RESPONSIBILITY]
-**A:** [WHAT YOU DID]
-**R:** [OUTCOME]
-**Use for:** "[QUESTION_TYPE_1]", "[QUESTION_TYPE_2]"
-
-<!-- Add more STAR examples as needed. Aim for 4-6 covering different competencies. -->
+### 3. AgTech ERP Modernization (Legacy Code & Database Scaling)
+**S:** The core AgTech ERP platform faced scalability bottlenecks and high technical debt under heavy data volumes, hampering performance for leading grain cooperatives.
+**T:** I was tasked with reducing technical debt and optimizing the data access layer for high-throughput transactions.
+**A:** I implemented strategic refactoring of the legacy architecture, designed database schema migrations using EF Core (PostgreSQL and SQLite), and optimized slow queries.
+**R:** Dramatically reduced legacy technical debt, optimized data access response times, and successfully aligned the architecture to accelerate the company's cloud-first migration.
+**Use for:** "Tell me about a time you resolved high technical debt", "Describe a complex database scaling problem", "How do you handle legacy code?"
 
 ## Common Tough Questions
 
-### "Why did you leave [previous company]?"
-> [PREPARE YOUR ANSWER - be honest, forward-looking, no negativity about former employer]
+### "Why are you looking to leave your current role?"
+> "I've had a highly rewarding 16-year career progressing from a junior developer to a Software Architect, leading mission-critical projects in AgTech. Having successfully delivered our major .NET MAUI rewrite and structured the engineering team's tech leadership, I feel it is the perfect time to seek a new challenge where I can apply my architecture, system design, and mentoring skills to new industries, scale, or global markets."
 
 ### "You don't have [specific skill/experience]."
-> [PREPARE YOUR ANSWER - acknowledge the gap, bridge to adjacent experience, show willingness to learn]
+> "I acknowledge that I haven't worked extensively with [specific skill], but throughout my career, I've repeatedly adapted to new platforms and languages—transitioning from Delphi/Java to C# .NET, Xamarin, and MAUI. My strong foundation in computer science and architecture design patterns allows me to ramp up on new tools very quickly and understand how they fit into the broader system architecture."
 
 ### "Where do you see yourself in 5 years?"
-> [PREPARE YOUR ANSWER - show ambition aligned with the role's growth path]
+> "I see myself in a senior architectural or technical leadership role, driving high-impact system design decisions for large-scale enterprise platforms. I want to continue mentoring engineering teams, establishing governance standards, and bridging the gap between business strategy and robust technical execution."
 
 ### "What's your biggest weakness?"
-> [PREPARE YOUR ANSWER - genuine weakness with concrete mitigation strategy]
+> "My biggest challenge is sometimes my own architectural perfectionism—wanting to refactor every piece of technical debt we encounter. I've learned to mitigate this by aligning technical quality with concrete business value, using metrics to prioritize refactoring efforts, and ensuring we deliver features within business timelines without compromising the system's core stability."
 
 ### "Why this company specifically?"
 > Customize per company. Must reference: specific projects, company values, market position, or team structure. Never give a generic answer.
